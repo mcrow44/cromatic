@@ -1,1 +1,1 @@
-# cromatic
+# Cromatic Collective
